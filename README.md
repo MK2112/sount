@@ -19,7 +19,9 @@ I'm thinking of use cases like these that could be most helpful:
 ## Roadmap
 
 - [ ] Core Processing
-  - [ ] Basic audio file reading/writing functionality
+  - [x] Basic audio file reading/writing functionality
+  - [ ] Implement basic audio splicing models
+  - [ ] Investigate usability of https://huggingface.co/datasets/jxie/musdb18
   - [ ] Real-time stream processing capability
   - [ ] Modules for mixing, mastering, and splicing
 - [ ] AI Integration
